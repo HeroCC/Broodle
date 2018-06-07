@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Broodle
 // @namespace    https://herocc.com/
+// @downloadURL  https://github.com/HeroCC/Broodle/raw/master/broodle.user.js
 // @version      0.2
 // @description  Brute Solve Moodle
 // @author       CC
